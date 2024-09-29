@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: nippy
+Version: 1.0
+Summary: Semi-automatic NIR preprocessing module
+Home-page: https://github.com/uef-bbc/nippy
+Author: Jari Torniainen, Isaac Afara, Biophysics of Bone and Cartilage, Applied Physics, University of Eastern Finland
+Author-email: jari.torniainen@uef.fi, isaac.afara@uef.fi
+License-File: LICENSE
+Requires-Dist: numpy>=1.13.3
+Requires-Dist: scipy>=0.19.1
+Requires-Dist: scikit-learn>=0.20.0
